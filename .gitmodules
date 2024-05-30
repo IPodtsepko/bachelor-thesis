@@ -1,0 +1,3 @@
+[submodule "program"]
+	path = program
+	url = git@github.com:IPodtsepko/jpeg-transcoding.git

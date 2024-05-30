@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.bcf
+*.bib
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.run.xml
+*.synctex.gz
+*.tct
+*.toc
+*.xdv
+
+# Output .pdf for LaTeX
+thesis-sources/*.pdf
+
+# Folder with used articles
+articles
